@@ -1,4 +1,4 @@
-# Vision-Transformers-for-classification-
+# Vision-Transformers-for-classification
 
 
 # Image Classification on MedMNIST Dataset
