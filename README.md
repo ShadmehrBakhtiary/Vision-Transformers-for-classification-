@@ -1,8 +1,6 @@
 # Vision-Transformers-for-classification-
 
-Certainly! Here's a template for a README file for your GitHub repository that showcases your image classification project using the MedMNIST dataset, CNNs, and Vision Transformers:
 
-```markdown
 # Image Classification on MedMNIST Dataset
 
 ## Overview
@@ -37,7 +35,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 - [MedMNIST](https://medmnist.github.io/) for providing the datasets.
-- References to any papers, libraries, or contributors relevant to the project.
 
-```
+
+
 
