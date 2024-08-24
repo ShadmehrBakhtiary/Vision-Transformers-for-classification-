@@ -23,7 +23,7 @@ This project employs two primary methodologies for model training:
 
 ## Results
 - The results show that Vision Transformers outperform CNN models in classification tasks, particularly for the BreastMNIST dataset.
-- ![We can observe all results with different models]([https://github.com/username/repository-name/raw/main/example.png](https://github.com/ShadmehrBakhtiary/Vision-Transformers-for-classification-/blob/main/Screenshot%202024-08-24%20215706.png))
+- ![We can observe all results with different models](https://github.com/ShadmehrBakhtiary/Vision-Transformers-for-classification-/blob/main/Screenshot%202024-08-24%20215706.png)
 - The Shifted Patch + LSA method yielded the best performance across the models for small datasets tested.
 
 
